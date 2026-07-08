@@ -240,12 +240,12 @@ a:hover {
 .publications-section h2 {
   margin: 0 0 44px;
   text-align: center;
-  color: #333333;
-  font-size: 46px;
-  font-weight: 300;
-  line-height: 1.15;
+  color: #1f2933;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0;
 }
-
 .publication-list {
   max-width: 1180px;
   margin: 0 auto;
